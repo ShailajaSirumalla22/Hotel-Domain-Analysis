@@ -1,6 +1,11 @@
 # Hotel Domain Analysis using Python and Pandas
   This project is part of data analytics bootcamp at codebasics.
-  
+
+---------------------------------------------------
+𝐏𝐨𝐰𝐞𝐫 𝐏𝐨𝐢𝐧𝐭 𝐒𝐥𝐢𝐝𝐞𝐬 𝐥𝐢𝐧𝐤 -https://1drv.ms/p/c/97be3f3acd4abdbb/ATbLk21hxpxPtpU8Hdl8Ygg?e=AvKfGQ
+----------------------------------------------------
+
+
 ## Problem Statement
 
 Atliq Grands, a well-established entity in India's hotel industry, is currently facing competition and a decline in revenue.  To address these issues,the management team has
