@@ -2,7 +2,7 @@
   This project is part of data analytics bootcamp at codebasics.
 
 ---------------------------------------------------
-𝐏𝐨𝐰𝐞𝐫 𝐏𝐨𝐢𝐧𝐭 𝐒𝐥𝐢𝐝𝐞𝐬 𝐥𝐢𝐧𝐤 -https://1drv.ms/p/c/97be3f3acd4abdbb/ATbLk21hxpxPtpU8Hdl8Ygg?e=AvKfGQ
+𝐏𝐨𝐰𝐞𝐫 𝐏𝐨𝐢𝐧𝐭 𝐒𝐥𝐢𝐝𝐞𝐬 𝐥𝐢𝐧𝐤 -https://1drv.ms/p/c/97be3f3acd4abdbb/ETbLk21hxpxPtpU8Hdl8YggBxn17JByUZyF7rIcF9FNQxw?e=DdRDwd
 ----------------------------------------------------
 
 
